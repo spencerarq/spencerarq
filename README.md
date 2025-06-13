@@ -6,7 +6,8 @@
 ---
 
 ### Sobre Mim
-Como Profissional de Quality Assurance, minha abordagem combina precisão técnica e um mindset analítico de planejamento, uma habilidade que trago da minha primeira graduação em Arquitetura. Meu compromisso com a excelência é a força motriz por trás do meu aprendizado contínuo, evidenciado pela **Pós-Graduação concluída em Desenvolvimento e Teste de Software**, meu **Tecnólogo em Análise e Sistemas em fase final**, e a atual **Pós-Graduação em Cloud & Edge Computing**.
+
+Como Profissional de Quality Assurance, minha abordagem é guiada por um **olhar atento de fotógrafo**, um **planejamento arquitetado** e uma busca incessante pela **excelência na qualidade**. Essa filosofia, fundamentada na minha trajetória que une Fotografia, Arquitetura e Tecnologia, é aplicada com precisão técnica em cada projeto. Meu compromisso com a evolução é a força motriz por trás do meu aprendizado contínuo, evidenciado pela **Pós-Graduação concluída em Desenvolvimento e Teste de Software**, meu **Tecnólogo em Análise e Sistemas** em fase final, e a atual **Pós-Graduação em Cloud & Edge Computing**.
 
 <br>
 
