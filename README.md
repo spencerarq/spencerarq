@@ -1,39 +1,160 @@
 <div align="center">
-  <h1>Olá, eu sou o Renato Spencer! </h1>
-  <h4>Engenheiro de Qualidade de Software (QA) | Especialista em Desenvolvimento e Teste de Software</h4>
+  <h1>Renato Spencer</h1>
+  <h3>Quality Engineering & Open Source Contributor</h3>
+  
+  <p>
+    <em>Building reliable software through rigorous testing, automation, and continuous improvement</em>
+  </p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://bit.ly/Rspencer)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:renato.spencer@gmail.com)
+  [![AssertJ](https://img.shields.io/badge/Contributor-AssertJ-green.svg)](https://github.com/assertj/assertj/pull/4031)
 </div>
 
 ---
 
-### Sobre Mim
+## 👨‍💻 About Me
 
-Como Profissional de Quality Assurance, minha abordagem é guiada por um **olhar atento de fotógrafo**, um **planejamento arquitetado** e uma busca incessante pela **excelência na qualidade**. Essa filosofia, fundamentada na minha trajetória que une Fotografia, Arquitetura e Tecnologia, é aplicada com precisão técnica em cada projeto. Meu compromisso com a evolução é a força motriz por trás do meu aprendizado contínuo, evidenciado pela **Pós-Graduação concluída em Desenvolvimento e Teste de Software**, meu **Tecnólogo em Análise e Sistemas** em fase final, e a atual **Pós-Graduação em Cloud & Edge Computing**.
+Quality Engineer specializing in **Java ecosystem** (Selenium, Testcontainers, JUnit 5, Appium) with active contributions to **enterprise open source projects**. My approach combines architectural thinking, attention to detail, and a commitment to technical excellence.
 
-<br>
+**Current Focus:**
+- 🔬 Contributing to critical infrastructure projects (AssertJ, Testcontainers, Selenium)
+- 🎓 Pursuing post-graduate studies in Cloud & Edge Computing
+- 🚀 Building scalable test automation frameworks
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+---
+
+## 🌟 Open Source Contributions
+
+### [AssertJ Core](https://github.com/assertj/assertj) - Java Assertion Library
+**Impact:** 15M+ monthly downloads on Maven Central
+
+- 🐛 Fixed inconsistent exception handling in `java.time` assertions. Solving Issue #4021 affecting soft assertions reliability. ([PR #4031](https://github.com/assertj/assertj/pull/4031))
+- ✅ Implemented graceful fallback mechanism preventing `DateTimeParseException`
+- 🧪 Created 23 test cases with 14,661 regression tests passing
+- 📚 Applied TDD methodology across 6 core assertion classes
+
+### [Testcontainers](https://github.com/testcontainers/testcontainers-java) - Docker Testing Framework
+- 📈 Elevated PostgreSQL module test coverage from 77% to 97%
+- 📝 Authored technical documentation and integration examples for K6 module
+- 🔒 Implemented white-box testing for critical database scenarios
+
+### [Selenium](https://github.com/SeleniumHQ/selenium) - Browser Automation
+- 🔧 Fixed critical Bazel build system dependencies
+- 🛡️ Implemented null-safety annotations (JSpecify) in core codebase
+- 🏗️ Strengthened build architecture and type safety
+
+### Other Projects
+- **FreeCodeCamp**: Fixed false-positive validation bugs in CI/CD pipeline
+- **Mozilla Firefox**: Performed technical triage (P1/S2 bugs) and backlog management
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,selenium,cypress,postman,jmeter,pytest" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,git,github,postgresql,azure,jira,trello" />
+  <strong>Core Expertise</strong><br>
+  <img src="https://skillicons.dev/icons?i=java,selenium,docker,jenkins,postgresql,git" />
+</p>
+
+<p align="center">
+  <strong>Testing & Automation</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript,cypress,jest,pytest,postman" />
+</p>
+
+<p align="center">
+  <strong>DevOps & Cloud</strong><br>
+  <img src="https://skillicons.dev/icons?i=githubactions,azure,linux,maven,gradle" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+<p align="center">
+<table>
+<tr>
+<td width="50%">
+
+  
+### 🤖 [Mobile Test Automation](https://github.com/spencerarq/appium-java-wikipedia-framework)
+**Java | Appium | TestNG | JUnit 5**
+
+- 80% code coverage (JaCoCo)
+- Test Pyramid architecture
+- Page Object Model pattern
+
+</td>
+<td width="50%">
+
+### 🗄️ [Database Testing + CI/CD](https://github.com/spencerarq/projeto-jiu)
+**Python | Pytest | Jenkins | PostgreSQL**
+
+- 89% reduction in validation time
+- Automated Docker pipeline
+- Business rule validation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 [API Test Automation](https://github.com/spencerarq/ServeRest)
+**JavaScript | Cypress | Docker**
+
+- 87.5% faster than manual testing
+- Auto-generated video evidence
+- REST API validation suite
+
+</td>
+<td width="50%">
+
+### 🎭 [E2E Multi-Browser Testing](https://github.com/spencerarq/ellis)
+**Python | Playwright | Page Object Model**
+
+- Grafana/Prometheus integration
+- Video recording & trace
+- Cross-browser compatibility
+
+</td>
+</tr>
+</table>
+</p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spencerarq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencerarq&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Post-Graduate** in Cloud & Edge Computing *(In Progress)*
+- 🎓 **Post-Graduate** in Software Development & Testing *(Completed)*
+- 🎓 **Technology Degree** in Systems Analysis & Development *(Completed)*
+- 📜 **QA Engineering** - CESAR School / FAST Program
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://bit.ly/Rspencer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:renato.spencer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/spencerarq">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<br>
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição |
-|---|---|
-| <a href="https://github.com/spencerarq/PrintQA"><strong>PrintQA - Plataforma de Análise para Impressão 3D</strong></a> | Backend em Python (FastAPI) com TDD e 100% de cobertura de testes, integrado a um pipeline de CI/CD com GitHub Actions e reporte para o TestRail. |
-| <a href="https://github.com/spencerarq/ZR-Team-Recife-QA-Tests"><strong>Teste e Automação de Banco de Dados (CI/CD)</strong></a> | Suíte de testes em Python/Pytest para validar regras de negócio e a integridade de um banco de dados PostgreSQL, com pipeline de CI completo em Jenkins e Docker. |
-| <a href="https://github.com/spencerarq/test-automation-java-selenium-main"><strong>Framework de Automação Web com Selenium</strong></a> | Framework de testes de UI construído em Java com Selenium WebDriver e TestNG, aplicando o padrão de design Page Object Model (POM). |
-| <a href="https://github.com/spencerarq/ServeRest_Cypress"><strong>Automação de Testes de API com Cypress</strong></a> | Automação de testes para a API ServeRest, cobrindo cenários de login e funcionalidades core, com geração de evidências em vídeo e logs. |
-
-### 📫 Vamos nos Conectar!
-<p align="center">
-  <a href="https://bit.ly/Rspencer" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:renato.spencer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+<div align="center">
+  <sub>💡 Open to collaboration on open source testing infrastructure and automation frameworks</sub>
+</div>
+```
