@@ -6,7 +6,7 @@
     <em>Building reliable software through rigorous testing, automation, and continuous improvement</em>
   </p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://bit.ly/Rspencer)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/renatospencer/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:renato.spencer@gmail.com)
   [![AssertJ](https://img.shields.io/badge/Contributor-AssertJ-green.svg)](https://github.com/assertj/assertj/pull/4031)
 </div>
@@ -143,7 +143,7 @@ Quality Engineer specializing in **Java ecosystem** (Selenium, Testcontainers, J
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://bit.ly/Rspencer" target="_blank">
+  <a href="https://www.linkedin.com/in/renatospencer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:renato.spencer@gmail.com">
